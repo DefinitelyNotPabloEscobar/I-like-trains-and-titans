@@ -1,6 +1,6 @@
 # Hello there!
 
-So, when you start the project it might take a bit of time to load, this because it will generate the wood texture and loading all the meshes. 
+So, when you start the project it might take a bit of time to load, this is because it will generate the wood texture and load all the meshes. 
 
 ## How to run?
 
@@ -15,7 +15,7 @@ Note: moving will take a consideration on where the user is looking.
 
 ## Hop on the train
 
-To get in the train you can use **r** please note that it will only work if you are close to the train.
+To get in the train you can use **r**, please note that it will only work if you are close to the train.
 To leave the train press **r** again.
 
 ## In the train
