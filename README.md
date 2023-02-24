@@ -1,6 +1,6 @@
 # Hello there!
 
-So for start the project might take a bit to load in the beginning This because he will be generating the wood texture and loading all the meshes. 
+So, when you start the project it might take a bit of time to load in the beginning, this because he will generate the wood texture and loading all the meshes. 
 
 ## How to run?
 
